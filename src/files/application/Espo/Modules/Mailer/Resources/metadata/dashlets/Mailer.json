@@ -1,0 +1,8 @@
+{
+    "view":"mailer:views/dashlets/mailer",
+    "aclScope": "Mailer",
+    "entityType": "Mailer",
+    "options": {
+        "custom": 123
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "entity": false,
+    "layouts": false,
+    "tab": false,
+    "acl": false,
+    "module": "Mailer",
+    "customizable": true,
+    "stream": false,
+    "importable": true
+}

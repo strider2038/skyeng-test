@@ -1,0 +1,12 @@
+{
+    "name": "Mailer",
+    "version": "1.0.0",
+    "acceptableVersions": [
+        ">=4.0.0"
+    ],
+    "releaseDate": "2017-02-21",
+    "author": "EspoCRM",
+    "description": "Mailer - test project for SkyEng",
+    "delete": [
+    ]
+}
